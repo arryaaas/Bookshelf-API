@@ -1,6 +1,6 @@
 # Bookshelf-Api
 
-Simple RESTful API for Bookshelf built with Node.js Natively and Hapi Framework - Cloud Computing Bangkit 2022.
+RESTful API for Bookshelf built with Node.js Natively and Hapi Framework - Cloud Computing Bangkit 2022.
 
 ## Routing
 
